@@ -9,7 +9,7 @@
 
 - 📝 I write automotive articles on [motortribute.wordpress.com](motortribute.wordpress.com)
 
-- 💬 Ask me about **programming lanugages, technology,car and bike related stuff**
+- 💬 Ask me about **programming lanugages, technology, car and bike related stuff**
 
 - 📫 How to reach me **harshdanibusiness@gmail.com**
 
