@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vim, React, Matlabs, Go, Firebase, Redux, Flux and Flutter**
 
-- 👨‍💻 All of my projects are available at [harshdani.github.io/portfolio](harshdani.github.io/portfolio)
+- 👨‍💻 All of my projects acan be viewed at [harshdani.github.io/projects](harshdani.github.io/projects)
 
 - 📝 I write automotive articles on [motortribute.wordpress.com](motortribute.wordpress.com)
 
