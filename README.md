@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A university student pursuing a Bachelors degree in Software Engineering in Germany.</h3>
 
-- 🔭 I’m currently working on **creating a mobile game, AI apps and NFTs.**
+- 🔭 I’m currently working on **creating a mobile game, AI applications and NFTs.**
 
 - 🌱 I’m currently learning **Vim, React, Matlabs, Go, Firebase, Redux, Flux and Flutter**
 
-- 👨‍💻 All of my projects acan be viewed at [harshdani.github.io/projects](harshdani.github.io/projects)
+- 👨‍💻 All of my projects can be viewed at [harshdani.github.io/projects](harshdani.github.io/projects)
 
 - 📝 I write automotive articles on [motortribute.wordpress.com](motortribute.wordpress.com)
 
