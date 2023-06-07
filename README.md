@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **programming lanugages, technology, car and bike related stuff**
 
-- 📫 How to reach me **harshdanibusiness@gmail.com**
+- 📫 How to reach me **harshdani@myyahoo.com**
 
 - 📄 Know about my experiences [harshdani.github.io/resume](harshdani.github.io/resume)
 
