@@ -7,13 +7,15 @@
 
 - 👨‍💻 All of my projects can be viewed at [harshdani.github.io/projects](harshdani.github.io/projects)
 
+- 📄 Know about my experiences [harshdani.github.io/resume](harshdani.github.io/resume)
+
 - 📝 I write automotive articles on [motortribute.wordpress.com](motortribute.wordpress.com)
 
-- 💬 Ask me about **programming lanugages, technology, car and bike related stuff**
+- 💬 Ask me about **programming lanugages, new technology, car and bike related stuff**
 
 - 📫 How to reach me **harshdani@myyahoo.com**
 
-- 📄 Know about my experiences [harshdani.github.io/resume](harshdani.github.io/resume)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
