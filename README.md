@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh
 🌱 I’m currently learning app/game development and creating a NFT<br>
 💬 Ask me about new technology, car and bike related stuff<br>
-👨‍💻 My portfolio website can be viewed at [harshdani.com](https://harsthechnoboy.github.io/)<br>
+👨‍💻 My portfolio website can be viewed at [harshtechnoboy. github.io](https://harshtechnoboy.github.io/)<br>
 📝 I write automotive articles on [motortribute.com](https://motortribute.wordpress.com/)
 
 
